@@ -1,5 +1,7 @@
 # Ogarserver
-Ogarserver with integrated masterserver
+Ogarserver which connects to a masterserver
+
+For Serverbrowser install http://62.75.165.76/AgarServerbrowser.user.js
 
 Adjust gameserver.ini in ./
 Adjust config.json in ./Ogar
